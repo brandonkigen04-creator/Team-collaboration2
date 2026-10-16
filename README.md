@@ -1,8 +1,9 @@
 1. Project Overview
- * What it entails: This project designs, analyzes, and compares different algorithmic approaches for generating the Fibonacci series (including recursive, iterative, memoization, and tabulation techniques) and applies the optimal iterative method to build a scalable Customer Loyalty Reward System.
-2. Project Structure
- * What it entails: The modular organization of the codebase, separating core algorithmic logic from application features:
-   * recursive_fibonacci.py: Implements the direct recursive Fibonacci function and series generator.
+2. What it entails: This project designs, analyzes, and compares different algorithmic approaches for generating the Fibonacci series (including recursive, iterative, memoization, and tabulation techniques) and applies the optimal iterative method to build a scalable Customer Loyalty Reward System.
+3. Project Structure
+4. What it entails: The modular organization of the codebase, separating core algorithmic logic from application features:
+
+recursive_fibonacci.py: Implements the direct recursive Fibonacci function and series generator.
    * iterative_fibonacci.py: Implements the array-based iterative Fibonacci and customer loyalty reward calculation.
    * dynamic_programming.py: Contains top-down memoization (lru_cache) and bottom-up tabulation implementations.
    * performance_analysis.py: Benchmarks the execution times for different approaches up to n = 30.
