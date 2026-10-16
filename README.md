@@ -39,5 +39,5 @@
   * Brandon Kigen — Research and introduction to the Fibonacci series.
   * Chriss Wambua — Implementation of the recursive approach.
   * Sydney Langat — Implementation of the iterative array approach.
-  * Prince Munene — Implementation of dynamic programming using memoization.
+  * Prince  Munene — Implementation of dynamic programming using memoization.
   * John Victor — Performance testing, algorithm comparison, and documentation.
